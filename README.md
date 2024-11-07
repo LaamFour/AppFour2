@@ -1,6 +1,7 @@
 Có 2 nhánh Frontend và Backend
 
 **Import Database trong File (Backend\__xampp\delivery.sql) vào Xampp (phpMyAdmin)**
+
 **Open folder Backend vào môi trường phát triển (VS Code) và chạy lệnh dưới:**
 
 - Npm i để cài nodemodul
